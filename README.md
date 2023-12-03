@@ -1,8 +1,12 @@
 
 👋 Hi, I’m @Ali_tayyab
+
 👀 Interested in innovative tech and creative projects.
+
 🌱 Currently learning new programming languages.
+
 💞️ Seeking collaborations on exciting ventures.
+
 📫 Reach me through tayyabincan@gmail.com.
 
 
