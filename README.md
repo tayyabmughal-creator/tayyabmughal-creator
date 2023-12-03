@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @tayyabmughal-creator
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+👋 Hi, I’m @Ali_tayyab
+👀 Interested in innovative tech and creative projects.
+🌱 Currently learning new programming languages.
+💞️ Seeking collaborations on exciting ventures.
+📫 Reach me through tayyabincan@gmail.com.
+
+
+
+
+
+
+
 
 <!---
 tayyabmughal-creator/tayyabmughal-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
